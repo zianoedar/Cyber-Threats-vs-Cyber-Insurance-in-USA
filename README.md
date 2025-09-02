@@ -34,7 +34,7 @@ This repository includes:
 
 You can run the notebook directly in Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/FBI_IC3_Internet_Crime_Report_Complaints_Losses.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1ngdynFg3q8rGK4-RoSSU8yNnwbcf1zBy?usp=sharing])
 
 ---
 
